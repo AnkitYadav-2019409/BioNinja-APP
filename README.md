@@ -8,6 +8,5 @@ BioNinja is a multipurpose bio calculator app made in android studio and provide
 - Converting RNA to amino acid sequence
 
 
-To get the code of this Application:
-- Go to this link: https://drive.google.com/drive/folders/1MbPnjQ3T0eQx1A45zY4VpCwBqsXsiRbM?usp=sharing
-- Then download PepCoder.zip from there, and extract it. And open this PepCoder folder as a project in your Android Studio
+How to run the code:
+- Copy Pepcoder folder to your computer and open this "PepCoder" folder as a project in your Android Studio
